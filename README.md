@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/225411143.svg)](https://zenodo.org/badge/latestdoi/225411143)
+
 # Applied Data Analytics - TDC Fall 2019 Training Course
 
 Repository for the Fall 2019 TDC training program focusing on TANF and employment data. More information can be found here: https://www.tanfdata.org/
