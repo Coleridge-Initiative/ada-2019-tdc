@@ -12,8 +12,8 @@ Participants in this program were grouped into teams of 5 or fewer and created p
 
 ### Training Program Agenda
 
-- Sept 18 — Program Introduction, Overview, Data Exploration, and Project Formulation
-- Sept 19 — Data Exploration, Visualization, and Initial Project Exploration
+- Sept 18 - Program Introduction, Overview, Data Exploration, and Project Formulation
+- Sept 19 - Data Exploration, Visualization, and Initial Project Exploration
 - Sept 20 - Introduction and Analysis of Machine Learning
 
 - Oct 16 - Project Work, Inference, and Record Linkage
